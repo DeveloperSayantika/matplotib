@@ -7,3 +7,5 @@
 ![image](https://github.com/user-attachments/assets/51ffc520-bc13-4325-9d63-9f9bfece8a83)
 # code 4 Visualizing Proportions
 ![image](https://github.com/user-attachments/assets/de4ef7fa-aa55-47e6-b8d3-d76aff627683)
+# code 5 Showing a Distribution
+![image](https://github.com/user-attachments/assets/88e07ac9-fa0b-4637-a201-396c71015d0e)
